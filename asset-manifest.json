@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/page-production/static/css/main.b97316a2.chunk.css",
+    "main.js": "/page-production/static/js/main.70a4c82e.chunk.js",
+    "main.js.map": "/page-production/static/js/main.70a4c82e.chunk.js.map",
+    "runtime-main.js": "/page-production/static/js/runtime-main.77d1916e.js",
+    "runtime-main.js.map": "/page-production/static/js/runtime-main.77d1916e.js.map",
+    "static/css/2.ad581902.chunk.css": "/page-production/static/css/2.ad581902.chunk.css",
+    "static/js/2.447e3890.chunk.js": "/page-production/static/js/2.447e3890.chunk.js",
+    "static/js/2.447e3890.chunk.js.map": "/page-production/static/js/2.447e3890.chunk.js.map",
+    "static/css/3.10aaecd8.chunk.css": "/page-production/static/css/3.10aaecd8.chunk.css",
+    "static/js/3.73eaddff.chunk.js": "/page-production/static/js/3.73eaddff.chunk.js",
+    "static/js/3.73eaddff.chunk.js.map": "/page-production/static/js/3.73eaddff.chunk.js.map",
+    "static/js/4.ba6f613c.chunk.js": "/page-production/static/js/4.ba6f613c.chunk.js",
+    "static/js/4.ba6f613c.chunk.js.map": "/page-production/static/js/4.ba6f613c.chunk.js.map",
+    "index.html": "/page-production/index.html",
+    "static/css/2.ad581902.chunk.css.map": "/page-production/static/css/2.ad581902.chunk.css.map",
+    "static/css/3.10aaecd8.chunk.css.map": "/page-production/static/css/3.10aaecd8.chunk.css.map",
+    "static/css/main.b97316a2.chunk.css.map": "/page-production/static/css/main.b97316a2.chunk.css.map",
+    "static/js/2.447e3890.chunk.js.LICENSE.txt": "/page-production/static/js/2.447e3890.chunk.js.LICENSE.txt",
+    "static/media/contactoSeccion.css": "/page-production/static/media/Fondo-contacto.76f10855.png",
+    "static/media/Logo2.0075d69a.png": "/page-production/static/media/Logo2.0075d69a.png",
+    "static/media/Raul_Garces1.5c6a0099.png": "/page-production/static/media/Raul_Garces1.5c6a0099.png",
+    "static/media/Textarea.d443f85c.svg": "/page-production/static/media/Textarea.d443f85c.svg",
+    "static/media/curriculum vitae.e8ec979f.pdf": "/page-production/static/media/curriculum vitae.e8ec979f.pdf",
+    "static/media/welcome.css": "/page-production/static/media/fondo-inicio.288c9b9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d1916e.js",
+    "static/css/2.ad581902.chunk.css",
+    "static/js/2.447e3890.chunk.js",
+    "static/css/main.b97316a2.chunk.css",
+    "static/js/main.70a4c82e.chunk.js"
+  ]
+}
